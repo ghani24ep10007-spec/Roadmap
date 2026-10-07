@@ -1,0 +1,6 @@
+{
+  "name": "CYBER//ROADMAP - Academic & Career Matrix Sistem Informasi",
+  "description": "Roadmap interaktif Semester 1-8 mahasiswa Sistem Informasi bertema Cyberpunk Hacker dengan tracking mata kuliah, kalkulator IPK, AI Career Advisor, Pengingat Tugas, serta Technopreneur UMKM Lab offline-first dan CI/CD Cloudflare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
